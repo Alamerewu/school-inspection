@@ -1,2 +1,5 @@
 # school-inspection
-Multiple correlation of school inspection focus area using Jupiter notebook
+Multiple correlations of school inspection focus area using Jupiter notebook
+# Heatmap
+Correlation heatmaps visualize the strength of relationships between numerical variables, helping to understand their relationships and outliers. They can identify linear and nonlinear relationships, with color coding making it easy to identify them. A sample correlation heatmap was created to understand linear relationships in a school inspection data set.
+The heatmap shows the correlation coefficient R of the third round school inspection variables relationship. The relationship between these variables is shown using a different color spectrum, from darkest to brightest. The lighter colors indicate stronger correlations, while the darker colors indicate weaker correlations. The correlation coefficient measures the strength and direction of the linear relationship between the two variables. Stronger correlation and values closer to 1 while weak correlation and values closer to 0.
